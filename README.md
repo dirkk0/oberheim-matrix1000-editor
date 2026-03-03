@@ -75,6 +75,11 @@ All messages: `F0 10 06 [opcode] [data...] F7` (manufacturer `10` = Oberheim, de
 
 See [docs/sysex-spec.md](docs/sysex-spec.md) for the full specification.
 
+## Links
+
+- [specs](http://www.youngmonkey.ca/nose/audio_tech/synth/Oberheim-Matrix1000.html)
+- [Matrix review (German)](https://www.amazona.de/vintage-analog-oberheim-matrix-1000-synthesizer-1984/)
+
 ## Credits
 
 Built with the assistance of [Claude Code](https://claude.ai/claude-code) (Anthropic).
